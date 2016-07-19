@@ -13,7 +13,7 @@ A simple cache library to save and retrieve contents.
 
 1) Put the file Cache.php in the application/libraries folder.
 
-2) Load the library through the below command.
+2) Load the library through the command below.
 ```sh
 $this->load->library('cache')
 ```
