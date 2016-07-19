@@ -1,5 +1,9 @@
-# codeigniter-basic-cache-library
-Codeigniter Basic Cache Library
+### Codeigniter-basic-cache-library
+
+#Description
+
+A simple cache library to save and retrieve contents.
+
 
 #Requirements
 
@@ -26,7 +30,6 @@ $this->cache->save($content_to_save, $file_name);
 The first parameter is the content you want to save, the second (optional) is the name of the cache file. If you dont send a file name, the system will randomly generate and return it.
 
 -Get
--Save
 ```sh
 $this->cache->get($file_name);
 ```
