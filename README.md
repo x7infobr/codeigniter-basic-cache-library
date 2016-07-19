@@ -1,2 +1,2 @@
-# codeigniter-base-cache-library
+# codeigniter-basic-cache-library
 Codeigniter Basic Cache Library
