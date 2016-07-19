@@ -25,7 +25,7 @@ There are two methods:
 The first parameter is the content you want to save, the second (optional) is the name of the cache file. If you dont send a file name, the system will randomly generate and return it.
 ```sh
 $this->cache->save($content_to_save, $file_name);
-//the code above manually sets the filename sending the it in the second parameter.
+//the code above manually sets the filename sending it in the second parameter.
 ```
 
 OR
